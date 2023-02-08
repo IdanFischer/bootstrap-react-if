@@ -1,0 +1,8 @@
+#root > .nav {
+  background-color: aliceblue;
+  padding: 10px;
+}
+
+#root > .nav > .nav-item {
+  padding: 1px;
+}
